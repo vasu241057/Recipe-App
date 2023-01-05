@@ -1,5 +1,5 @@
 ## Recipe App
-This is a recipe app made by using Edamam Api for fetching data. Check demo [here](https://roshan0708.github.io/recipe_app/)
+This is a recipe app made by using Edamam Api for fetching data. Check demo [here](https://vasu241057.github.io/Recipe-app/)
 
 Screenshots -
 
